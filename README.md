@@ -1,9 +1,8 @@
-<!-- <div>
+<div>
   <a href="https://github.com/thiagonogueira-dev">
-  <img align="center" height="165px" width="auto" src="https://github-readme-stats.vercel.app/api?username=thiagonogueira-dev&show_icons=true&count_private=true&theme=dark" />
+  <!-- <img align="center" height="165px" width="auto" src="https://github-readme-stats.vercel.app/api?username=thiagonogueira-dev&show_icons=true&count_private=true&theme=dark" /> -->
   <img align="center" height="165px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonogueira-dev&layout=compact&theme=dark" />
-</div>
--->  
+</div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
